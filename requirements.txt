@@ -10,4 +10,6 @@ dill
 flask
 flask_cors
 lime
+scikit-learn==1.2.2
+
 #-e .

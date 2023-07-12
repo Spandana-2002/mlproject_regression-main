@@ -27,9 +27,7 @@ Dataset Source Link :
 
 ### Check this link for details : [American Gem Society](https://www.americangemsociety.org/ags-diamond-grading-system/)
 
-# AWS Deployment Link :
 
-AWS Elastic Beanstalk link : [http://teamproject-env.eba-au46amvx.eu-north-1.elasticbeanstalk.com/]http://teamproject-env.eba-au46amvx.eu-north-1.elasticbeanstalk.com/
 
 # Approach for the project 
 
